@@ -62,7 +62,7 @@ public class GameFlow {
         KeyPressStoppableAnimation endScreen;
         if (!this.isWin) {
             endScreen = new KeyPressStoppableAnimation(this.gui.getKeyboardSensor(), "space",
-                     new GameOver(this.score.getValue()));
+                     new GameOver(this.score.getValue()),currentHighScore);
         } else {
             endScreen = new KeyPressStoppableAnimation(this.gui.getKeyboardSensor(), "space",
                      new YouWin(this.score.getValue(), currentHighScore));
