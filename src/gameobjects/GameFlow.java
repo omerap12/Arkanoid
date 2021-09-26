@@ -69,7 +69,7 @@ public class GameFlow {
 
         }
         this.animationRunner.run(endScreen);
-        if ((this.score.getValue() > currentHighScore) && (this.isWin)) {
+        if (this.score.getValue() > currentHighScore) {
             this.highScoreUtility.writeHighScore(this.score.getValue());
         }
         gui.close();
