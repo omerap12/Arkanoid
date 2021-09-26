@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="018fa553-2443-4824-95f3-5e386e2e919f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/gameobjects/GameFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gameobjects/GameFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/GameOver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/GameOver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +33,22 @@
       <option name="presentableId" value="Default" />
       <updated>1632646324462</updated>
       <workItem from="1632646332724" duration="49000" />
+      <workItem from="1632646441585" duration="201000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
