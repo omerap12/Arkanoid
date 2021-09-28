@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="018fa553-2443-4824-95f3-5e386e2e919f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/gameobjects/GameFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gameobjects/GameFlow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/GameOver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/GameOver.java" afterDir="false" />
-    </list>
+    <list default="true" id="018fa553-2443-4824-95f3-5e386e2e919f" name="Default Changelist" comment="changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +16,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -34,7 +32,16 @@
       <updated>1632646324462</updated>
       <workItem from="1632646332724" duration="49000" />
       <workItem from="1632646441585" duration="201000" />
+      <workItem from="1632646781999" duration="208000" />
     </task>
+    <task id="LOCAL-00001" summary="changes">
+      <created>1632646899080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632646899080</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -50,5 +57,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
 </project>
