@@ -1,6 +1,6 @@
-# Arknoid
+# ARKANOID
  
-Arknoid game project written in Java as project in OOP course at Bar-Ilan University.
+ARKANOID game project written in Java as project in OOP course at Bar-Ilan University.
 need to have ant compile code available.
 
 The game has 3 different Levels:
