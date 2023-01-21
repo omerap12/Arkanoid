@@ -5,12 +5,6 @@ ARKANOID game project written in Java as project in OOP course at Bar-Ilan Unive
 
 
 
-# ARKANOID
-
-ARKANOID game project written in Java as project in OOP course at Bar-Ilan University.
-
-
-
 ## Running
 
 To start this game run
